@@ -9,6 +9,7 @@ import org.springframework.web.servlet.config.annotation.WebMvcConfigurer;
 public class WebConfig
 {
     //nuevo cambio.
+    //nuevo cambio2.
 
     @Bean
     public WebMvcConfigurer corsConfigurer() {
