@@ -10,6 +10,7 @@ public class WebConfig
 {
     //nuevo cambio.
     //nuevo cambio2.
+    //nuevo cambio3.
 
     @Bean
     public WebMvcConfigurer corsConfigurer() {
